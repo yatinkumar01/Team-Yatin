@@ -1,10 +1,9 @@
 Yatin Kumar
-<<<<<<< HEAD
-=======
-Abhijeet Sharma
-MD Haris
->>>>>>> 305669bd6688d3623d386f1b9998b26005022ed9
 Shalini
-Ghevar Chand
 Mohamed Haris
+Ghevar Chand
 Abhijeet Sharma
+
+
+
+
